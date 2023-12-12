@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Tue Dec 12 08:00:41 2023 as: nmap -O -oN yr_nmap_scan.txt your_target_ip
+Failed to resolve "your_target_ip".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Tue Dec 12 08:01:11 2023 -- 0 IP addresses (0 hosts up) scanned in 30.40 seconds
